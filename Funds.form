@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="webLabel12" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel9" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel10" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel8" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel6" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel5" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel3" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel14" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel15" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel17" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel19" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="webTextField1_comp" alignment="1" max="32767" attributes="0"/>
+                  <Component id="webTextField2_athletic" alignment="1" min="-2" pref="187" max="-2" attributes="0"/>
+                  <Component id="webTextField3_stud" alignment="1" min="-2" pref="187" max="-2" attributes="0"/>
+                  <Component id="webTextField4_lib" alignment="1" min="-2" pref="187" max="-2" attributes="0"/>
+                  <Component id="webTextField5_med" alignment="1" min="-2" pref="187" max="-2" attributes="0"/>
+                  <Component id="webTextField6_comlab" alignment="1" min="-2" pref="187" max="-2" attributes="0"/>
+                  <Component id="webTextField7_internet" alignment="1" min="-2" pref="187" max="-2" attributes="0"/>
+                  <Component id="webTextField8_enlab" alignment="1" min="-2" pref="187" max="-2" attributes="0"/>
+                  <Component id="webTextField9_agriscilab" alignment="1" min="-2" pref="187" max="-2" attributes="0"/>
+                  <Component id="webTextField10_scilab" alignment="1" min="-2" pref="187" max="-2" attributes="0"/>
+                  <Component id="webTextField11_devcomlab" alignment="1" min="-2" pref="187" max="-2" attributes="0"/>
+                  <Component id="webTextField12_hrmlab" alignment="1" min="-2" pref="187" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="webLabel21" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel23" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel25" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel27" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel28" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel30" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel34" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel31" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel32" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel36" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel4" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="webLabel7" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="webTextField13_cwts_nstp_rotclab" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                  <Component id="webTextField14_adhandlab" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                  <Component id="webTextField15_gctcpsylab" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                  <Component id="webTextField16_sociolab" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                  <Component id="webTextField17_comreaslab" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                  <Component id="webTextField18_thesisdef" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                  <Component id="webTextField19_idfee" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                  <Component id="webTextField20_practicum" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                  <Component id="webTextField21_stud_group_ins" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                  <Component id="webTextField22_cimlab" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                  <Component id="webTextField23_bpelab" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                  <Component id="webTextField24_rle_aff_capp" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="138" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="webButton1_savefunds" min="-2" pref="110" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="366" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="47" pref="47" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="8" pref="8" max="-2" attributes="0"/>
+                      <Component id="webLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="webTextField1_comp" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="webLabel21" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="webTextField13_cwts_nstp_rotclab" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="webTextField2_athletic" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="webTextField14_adhandlab" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="webLabel3" min="-2" max="-2" attributes="0"/>
+                          <Component id="webLabel23" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="webTextField3_stud" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="webTextField15_gctcpsylab" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="webLabel5" min="-2" max="-2" attributes="0"/>
+                          <Component id="webLabel25" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="webLabel6" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="webTextField4_lib" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="8" pref="8" max="-2" attributes="0"/>
+                      <Component id="webLabel27" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                      <Component id="webTextField16_sociolab" min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="webLabel8" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="webTextField5_med" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="8" pref="8" max="-2" attributes="0"/>
+                      <Component id="webLabel28" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                      <Component id="webTextField17_comreaslab" min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="4" pref="4" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="webLabel9" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="webTextField6_comlab" min="-2" pref="27" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="8" pref="8" max="-2" attributes="0"/>
+                      <Component id="webLabel30" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                      <Component id="webTextField18_thesisdef" min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="9" pref="9" max="-2" attributes="0"/>
+                      <Component id="webLabel10" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+                      <Component id="webTextField7_internet" min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="webLabel34" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="webTextField19_idfee" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="9" pref="9" max="-2" attributes="0"/>
+                      <Component id="webLabel12" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+                      <Component id="webTextField8_enlab" min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="webLabel31" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="webTextField20_practicum" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="9" pref="9" max="-2" attributes="0"/>
+                      <Component id="webLabel14" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+                      <Component id="webTextField9_agriscilab" min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="webLabel32" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="webTextField21_stud_group_ins" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="9" pref="9" max="-2" attributes="0"/>
+                      <Component id="webLabel15" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+                      <Component id="webTextField10_scilab" min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="webLabel36" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="webTextField22_cimlab" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="9" pref="9" max="-2" attributes="0"/>
+                      <Component id="webLabel17" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+                      <Component id="webTextField11_devcomlab" min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="webLabel4" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="webTextField23_bpelab" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="9" pref="9" max="-2" attributes="0"/>
+                      <Component id="webLabel19" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+                      <Component id="webTextField12_hrmlab" min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                      <Component id="webLabel7" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="webTextField24_rle_aff_capp" min="-2" pref="27" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+              <Component id="webButton1_savefunds" min="-2" pref="36" max="-2" attributes="0"/>
+              <EmptySpace pref="309" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Comprehensive Exam / Outline Defense:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ahtletic Fee:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Student Activity:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Library Fee:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Medical Fee:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Com Lab Fee:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Internet Fee:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Engineering Lab Fee:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel14">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Agri Science Lab Fee:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel15">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Science Lab Fee:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel17">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Dev Comm. Fee / Speech Lab:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel19">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="HRM Lab:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel21">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CWTS / NSTP / ROTC:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel23">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Admission / Handbook:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel25">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="GCTC / PSYCHO Fee:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel27">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Socio Cultural:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel28">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Community Research:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel30">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Thesis Defense:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel31">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Practicum:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel32">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Students Group Insurance:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel34">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ID Fee:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel36">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Crim Lab:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField1_comp">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField2_athletic">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField3_stud">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField4_lib">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField5_med">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField6_comlab">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField7_internet">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField8_enlab">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField9_agriscilab">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField10_scilab">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField11_devcomlab">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField12_hrmlab">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField13_cwts_nstp_rotclab">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField14_adhandlab">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField15_gctcpsylab">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField16_sociolab">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField17_comreaslab">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField18_thesisdef">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField19_idfee">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField20_practicum">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField21_stud_group_ins">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField22_cimlab">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField23_bpelab">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="BPE / Lab - Dev Fee:"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.text.WebTextField" name="webTextField24_rle_aff_capp">
+      <Properties>
+        <Property name="inputPrompt" type="java.lang.String" value="Amount"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.label.WebLabel" name="webLabel7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="RLE / Affiliation / Capping"/>
+      </Properties>
+    </Component>
+    <Component class="com.alee.laf.button.WebButton" name="webButton1_savefunds">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="SAVE"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="webButton1_savefundsActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
